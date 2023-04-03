@@ -1,2 +1,14 @@
 # Jump_Repo_Connector
-I have made this repository to act as a index for all projects completed in the Cognixia Jump+ program. Please see README.md file for more information.
+
+Here is the collection of projects completed in the Cognixia Jump+ course:
+
+## [Dollars Bank - Pure Java](https://github.com/matteoantunez/DollarsBank_Console)
+Repo: https://github.com/matteoantunez/DollarsBank_Console
+
+Full-Stack Java Developers must know the basics of Java. This projects utilizes that knowledge to create a console-based java application that allows the user to complete basic functions, such as:
+
+* Create an account
+* Read/View Transactions
+* Update information
+* Delete Information
+* Much More!
