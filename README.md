@@ -15,3 +15,6 @@ Full-Stack Java Developers must know the basics of Java. This projects utilizes 
 
 ## [MTO - Movie Tracker](https://github.com/matteoantunez/MTO-Movie_Tracker)
 Repo: https://github.com/matteoantunez/MTO-Movie_Tracker
+
+## [SGB - Student Grade Book](https://github.com/matteoantunez/SGB_StudentGradeBook)
+Repo: https://github.com/matteoantunez/SGB_StudentGradeBook
